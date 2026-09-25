@@ -1,2 +1,0 @@
-# MystaAi-
-Ai mystic
